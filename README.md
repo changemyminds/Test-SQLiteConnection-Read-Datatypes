@@ -1,4 +1,4 @@
-## Test SQLiteConnection read Datatypes
+## Test SQLiteConnection read datatypes
 
 ### Test Library
 https://www.nuget.org/packages/System.Data.SQLite.Core/1.0.113.1 <br>
