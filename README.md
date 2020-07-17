@@ -1,7 +1,6 @@
 ## Test SQLiteConnection read Datatypes
 
 ### Test Library
-https://www.nuget.org/packages/SQLite/3.13.0 <br>
 https://www.nuget.org/packages/System.Data.SQLite.Core/1.0.113.1 <br>
 
 ### Issue
